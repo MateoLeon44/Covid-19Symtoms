@@ -19,7 +19,6 @@ import CerroSesion from "../components/CerroSesion";
 import NoAutorizado from "../components/NoAutorizado";
 import RegistarConsumoMedicina from '../components/RegistarConsumoMedicina';
 import Reporte from '../components/Reporte';
-import {Link} from "react-router-dom";
 
 
 const Navbar = () => {
